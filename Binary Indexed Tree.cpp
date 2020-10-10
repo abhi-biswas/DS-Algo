@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 /**
 * This class implements Fenwick Tree Data Structure,
 * It uses 1 based Indexing
